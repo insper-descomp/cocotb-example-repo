@@ -1,4 +1,4 @@
-name: Quartus Tests
+name: Demux Tests
 
 on:
   workflow_dispatch: {}
